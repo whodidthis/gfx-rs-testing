@@ -1,0 +1,9 @@
+[package]
+name = "wunder"
+version = "0.0.0"
+
+[dependencies]
+gfx = "0.9.1"
+gfx_window_glutin = "0.9.1"
+glutin = "0.4.9"
+cgmath = "0.7.0"
